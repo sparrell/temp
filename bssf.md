@@ -53,7 +53,7 @@ iv.	More on the telescope in a minute, but did you know
    * We are the Space Program II (hacked webb pic)
 i.	This pic, taken by the Webb telescope, was used by hackers to distribute malware.
 ii.	Which means that decades of work executed by teams built from some of the most qualified engineers on the planet was co-opted in a matter of days by nefarious actors who saw the majesty of the galaxy as nothing more than a clever exploit
-1 Uncle Jim’s Cosmic Quadblock Quiz
+1. Uncle Jim’s Cosmic Quadblock Quiz
 Aside to reviewers. QuadBlockQuiz is a game on the web developed for Supply Chain Sandbox at RSAC 2021 and reused at BSidesLV 2021 and RSAC 2022 (https://supplychainsandbox.org/quadblocks). It is being modified for this talk and a contest will be run during the talk, with 3 prizes (2 raspberry pi’s with LED matrix, programmed with some of the automation features discussed in the talk, 1 book). The talk and contest will be preannounced on social media.
    *	QBQ falling blocks Gif
 i.	in the spirit of our newfound role in the space program of the future, I'd like to introduce a game I built.
@@ -71,7 +71,7 @@ iv.	Space is cold - computer got very cold
 v.	did the simulations on the tradeoff between turning computer on too early (and would run out of power/oxygen and crew would die) and waiting too late (computer would take too long to warm up and not be available for reentry and capsule would burn up on and crew would die)
 vi.	play short clip from movie where my uncle Jim is briefly mentioned
 vii.	loss of that computer imperiled lives. thousand time more true today
-1 Automation
+1. Automation
    *	Houston, We Have A Solution (Houston, We Have A Solution = automation slide)
 i.	Fine-tuning standards-based interoperable cybersecurity for the inhospitably of space
 ii.	Where human-produced technology goes, so go human problems
@@ -150,9 +150,9 @@ i.	To get the Webb Telescope to space required a rocket, with fuel, and a gazill
 ii.	The fuel for the rocket in cybersecurity is automation,
 iii.	the gazillion piece parts are the alphabet soup I just went thru,
 iv.	and the rocket holding it all together is sharing among defenders
-1 Blinky Demo (pi slide)
+1. Blinky Demo (pi slide)
 i.	Live demo of raspberry pi doing small subset of previous automation stuff
-1 Conclusion
+1. Conclusion
    *	Takeaway slide
 i.	Cybersecurity == Cybersafety == important in cyber-physical systems
 ii.	Cybersecurity Automation is cheaper/better/faster than manual
@@ -163,5 +163,5 @@ i.	For more information, see the links on this slide or feel free to contact me 
 i.	It's a luxury to think that the work we contribute to cybersecurity in space will have a long lead time or the deliberate tempo of Devops. More likely than not, cybersecurity professionals will find themselves drawn into extraterrestrial operations in the same way my Uncle Jim found himself involved with Apollo--via a random call on an otherwise ordinary afternoon. We need to prepare for how sudden and seemingly mundane our role in the space program will be and adjust our dreams and nightmares accordingly.
    * Clock Slide
 i.	never enough time, thank you for yours
-1 Q&A (Q&A/patch logo slide)
-1 Announce Prize Winners (prizes slide)
+1. Q&A (Q&A/patch logo slide)
+1. Announce Prize Winners (prizes slide)
