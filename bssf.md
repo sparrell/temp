@@ -68,52 +68,31 @@ Terrestrial cybersecurity automation protocol will determine whether the new spa
    * Risk (“How to” Sieresen book slide)
       - This book has been out a while but I still recommend it. It’s a textbook, and like most textbooks, it’s not necessarily an easy read. But the concepts in it are really important. I’ll give out one of these at the end of my talk as a prize.
    * Savings (JHU 3-order slide)
-      - Here is some data from the Johns Hopkins University Applied Physics Lab. They automated their defenses using some standards I’ll  cover next.
-      - Being a university and a national lab – they studied the impact of automation. They saw:
+      - Here is some data from the Johns Hopkins University Applied Physics Lab. They automated their defenses using some standards I’ll  cover next. Being a university and a national lab – they studied the impact of automation. They saw:
          + three-order of magnitude increase in how well they handled events and incidents
          + 2-order of magnitude increase in how much was mitigated
          + Most important – 2-order of magnitude decrease in how long the hacker was in. That is what you plug into your risk quantification in the Green book I just mentioned – 2-order of magnitude decrease in time for hacker to do damage which results in an even greater reduction in damage.
    * Acronyms (alphabet soup slide)
       - Cybersecurity automation has as many acronyms as the space shuttle – well maybe not the thousands NASA uses. I’ll try to not only define the acronym but explain the value.
    * PACE in Space (Pace logo slide)
-      - Security Posture - you want to know the state of your enterprise
-      - More words here – analogous to telemetry in spacecraft
+      - Security Posture - you want to know the state of your enterprise. This is analogous to telemetry in spacecraft. PACE is Posture Attribute Collection & Evaluation.
    * OCA (OCA/NASA Slide)
-      - PACE is part of the Open Cybersecurity Alliance or OCA.
-      - OCA is a nonprofit, global collaboration of software providers, end users, government agencies, research institutes, and individuals committed to enabling the free exchange of information, insights, analytics, and response across cybersecurity tools.
-      - OCA is to cybersecurity what NASA is to rockets.
+      - PACE is part of the Open Cybersecurity Alliance or OCA. OCA is a nonprofit, global collaboration of software providers, end users, government agencies, research institutes, and individuals committed to enabling the free exchange of information, insights, analytics, and response across cybersecurity tools. OCA is to cybersecurity what NASA is to rockets.
    * Kestrel hunting (Hawk hunting slide)
-      - One critical security attribute (ie input to PACE) is
-1.	‘are there hackers in my system? If so, where? What are they doing’
-      - Kestrel is an OCA project for threat hunting ie finding the hackers.
-      - For a spaceship this is analogous …
-      - Stix/threat intelligence sharing (Stix slide)
-      - Why might you be looking? Because your peers, your government intelligence agencies, or your ISAC/ISAO gave you threat intelligence.
-      - STIX is an OASIS standard for sharing threat intelligence.
-      - TAXII, another OASIS standard, is the typical distribution for STIX
-      - For a spaceship this is analogous …
-      - Unfortunately, many vendors put out cybersecurity tools with their own custom interfaces. Good for vendor because leads to vendor lockin. Bad for customer and bad for cybersecurity overall.
-v      - Good news is the OCA has an open-source project, stixshifter, to convert all these vendor interfaces into standard STIX output
-j.	Playbooks/Courses of action (Playbook slide)
-      - Don’t just share threats, share solutions (playbooks)
-      - Mission Control in Houston follows playbooks, so do cyber defenders
-      - CACAO is the OASIS standard for sharing cybersecurity playbooks
-      - This is fundamental to automation
-      - What’s in playbooks
-1.	Controls based on the security posture ie PACE
-2.	Commands
+      - One critical security attribute (ie input to PACE) is ‘are there hackers in my system? If so, where? What are they doing?’ Kestrel is an OCA project for threat hunting ie finding the hackers.
+   * Stix/threat intelligence sharing (Stix slide)
+      - Why might you be looking? Because your peers, your government intelligence agencies, or your ISAC/ISAO gave you threat intelligence. STIX is an OASIS standard for sharing threat intelligence. TAXII, another OASIS standard, is the typical distribution for STIX.
+      - Unfortunately, many vendors put out cybersecurity tools with their own custom interfaces. Good for vendor because leads to vendor lockin. Bad for customer and bad for cybersecurity overall. Good news is the OCA has an open-source project, stixshifter, to convert all these vendor interfaces into standard STIX output
+   * Playbooks/Courses of action (Playbook slide)
+      - Don’t just share threats, share solutions (playbooks). Mission Control in Houston follows playbooks, so do cyber defenders. CACAO is the OASIS standard for sharing cybersecurity playbooks. This is fundamental to automation. What’s in playbooks?
+         + Controls based on the security posture ie PACE
+         + and commands
 k.	OpenC2 (OpenC2 slide)
-      - Just like rockets have command & control, or C2 in NASA speak, so does cybersecurity automation.
-      - And the OASIS standard for C2 is OpenC2
+      - Just like rockets have command & control, or C2 in NASA speak, so does cybersecurity automation. And the OASIS standard for C2 is OpenC2
 l.	Back to PACE for SPACE (Space Race for PACE slide)
-      - One crucial input to your security posture is whether your software is vulnerable to exploit.
-      - To know that, you need to know what your software is, and what it’s made up of, which brings us to Software Bill of materials or SBOM.
+      - One crucial input to your security posture is whether your software is vulnerable to exploit. To know that, you need to know what your software is, and what it’s made up of, which brings us to Software Bill of materials or SBOM.
 m.	SBOM/VEX (sbom slide)
-      - In a world where a tile can cause a catastrophic failure of a space shuttle, we should be just as concerned about what goes in the software.
-      - Knowing the components of the software let you know whether it’s vulnerable to exploit. So you need SBOMs for any software.
-      - A companion document is the VEX or vulnerability exploitability eXchange. This tells you whether vulnerabilities are actually exploitable.
-      - Having SBOMs and VEXs lets you “shift left” and fix problems upsteam before they cause problems.
-      - This is another aspect of security posture to store in PACE
+      - In a world where a tile can cause a catastrophic failure of a space shuttle, we should be just as concerned about what goes in the software. Knowing the components of the software let you know whether it’s vulnerable to exploit. So you need SBOMs for any software. A companion document is the VEX or vulnerability exploitability eXchange. This tells you whether vulnerabilities are actually exploitable. Having SBOMs and VEXs lets you “shift left” and fix problems upsteam before they cause problems. This is another aspect of security posture to store in PACE
 n.	TAC (tac slide)
       - Another important input in PACE, and also helps with threat hunting, is more information about the threat actor. The threat actor context (or TAC) OASIS technical committee is standardizing how to describe threat actors in STIX
 o.	IOB (IOB slide)
