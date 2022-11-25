@@ -87,28 +87,28 @@ Terrestrial cybersecurity automation protocol will determine whether the new spa
       - Don’t just share threats, share solutions (playbooks). Mission Control in Houston follows playbooks, so do cyber defenders. CACAO is the OASIS standard for sharing cybersecurity playbooks. This is fundamental to automation. What’s in playbooks?
          + Controls based on the security posture ie PACE
          + and commands
-k.	OpenC2 (OpenC2 slide)
+   * OpenC2 (OpenC2 slide)
       - Just like rockets have command & control, or C2 in NASA speak, so does cybersecurity automation. And the OASIS standard for C2 is OpenC2
-l.	Back to PACE for SPACE (Space Race for PACE slide)
+   * Back to PACE for SPACE (Space Race for PACE slide)
       - One crucial input to your security posture is whether your software is vulnerable to exploit. To know that, you need to know what your software is, and what it’s made up of, which brings us to Software Bill of materials or SBOM.
-m.	SBOM/VEX (sbom slide)
+   * SBOM/VEX (sbom slide)
       - In a world where a tile can cause a catastrophic failure of a space shuttle, we should be just as concerned about what goes in the software. Knowing the components of the software let you know whether it’s vulnerable to exploit. So you need SBOMs for any software. A companion document is the VEX or vulnerability exploitability eXchange. This tells you whether vulnerabilities are actually exploitable. Having SBOMs and VEXs lets you “shift left” and fix problems upsteam before they cause problems. This is another aspect of security posture to store in PACE
-n.	TAC (tac slide)
+   * TAC (tac slide)
       - Another important input in PACE, and also helps with threat hunting, is more information about the threat actor. The threat actor context (or TAC) OASIS technical committee is standardizing how to describe threat actors in STIX
-o.	IOB (IOB slide)
+   * IOB (IOB slide)
       - And besides knowing about the threat actors, it helps to know about how they behave and that is where Indicators of Behavior or IoB help.
       - IoB is another project in the OCA, along with PACE, kestrel, stixshifter.
       - Like TAC, IoB standardizes in STIX but in IoB it is the indicators of behavior instead of the threat actor themselves
       - Both TAC and IOB help defenders know what to look for and to Find and fix the faults that allow them in
-p.	HDL (HDL slide)
+   * HDL (HDL slide)
       - Mitre has a cybersecurity automation effort and needed a way for cybersecurity tools to exchange data, so they came up with the Heimdeall Data Format to normalize data. It is now being developed as an OASIS standard.
-q.	NIEM (NIEM slide)
+   * NIEM (NIEM slide)
       - NIEM started outside of cyber as a US government effort to standardize terminology for communications among federal agencies and with state and local governments. It is now an OASIS open project and had expanded to include cyber/
       - For cybersecurity the rocket analogy to NIEM is NIEM – ie the NASA already uses NEIM 😊.
-r.	VSMI (value slide)
+   * VSMI (value slide)
       - Value Stream Management or VSM means translating all this into business terms – for example the financial risk mentioned earlier in the green book
       - For a spaceship this is analogous to the Office of Management and Budget and just like rockets, cybersecurity costs a lot. But if you skimp, people die.
-s.	Automation summary (rocket build slide)
+   * Automation summary (rocket build slide)
       - To get the Webb Telescope to space required a rocket, with fuel, and a gazillion piece parts.
       - The fuel for the rocket in cybersecurity is automation,
       - the gazillion piece parts are the alphabet soup I just went thru,
