@@ -1,24 +1,29 @@
 Key Takeaways
-•	Cybersecurity == Cybersafety == important in cyber-physical systems
-•	Cybersecurity Automation is cheaper/better/faster than manual
-•	Cybersecurity Vendor-agnostic standards enable automation
-•	Where to go for more info
+-	Cybersecurity == Cybersafety == important in cyber-physical systems
+-	Cybersecurity Automation is cheaper/better/faster than manual
+-	Cybersecurity Vendor-agnostic standards enable automation
+-	Where to go for more info
+
 Why people will want to attend?
+
 Terrestrial cybersecurity automation protocol will determine whether the new space race is the stuff of dreams or nightmares. This talk knits together abstract theories with concrete consequences in a cosmic call to action.
-•	To takeaway the key takeaways
-•	Because cybersecurity is no longer just for cybersecurity geeks
-•	Amusement
-•	To win prizes
+-	To takeaway the key takeaways
+-	Because cybersecurity is no longer just for cybersecurity geeks
+-	Amusement
+-	To win prizes
+
 Structure of Talk (25 min)
-I.	Background (4 min)
-II.	Uncle Jim’s Cosmic Quadblox Quiz (4 min)
-III.	Automation (8 min)
-IV.	Blinky Demo (2 min)
-V.	Conclusion (2 min)
-VI.	Q&A (3 min)
-VII.	Announce Prize Winners (2 min)
+- Background (4 min)
+- Uncle Jim’s Cosmic Quadblox Quiz (4 min)
+- Automation (8 min)
+- Blinky Demo (2 min)
+- Conclusion (2 min)
+- Q&A (3 min)
+- Announce Prize Winners (2 min)
+
 Detailed Outline
-I.	Background
+
+- Background
 a.	Title Slide
 i.	My Mastodon handle is @sfractal@infosec.exchange. Please toot/post about this talk
 b.	Tagline (Think Evilly, Act Ethically slide)
@@ -48,7 +53,7 @@ iv.	More on the telescope in a minute, but did you know
 h.	We are the Space Program II (hacked webb pic)
 i.	This pic, taken by the Webb telescope, was used by hackers to distribute malware.
 ii.	Which means that decades of work executed by teams built from some of the most qualified engineers on the planet was co-opted in a matter of days by nefarious actors who saw the majesty of the galaxy as nothing more than a clever exploit
-II.	Uncle Jim’s Cosmic Quadblock Quiz
+- Uncle Jim’s Cosmic Quadblock Quiz
 Aside to reviewers. QuadBlockQuiz is a game on the web developed for Supply Chain Sandbox at RSAC 2021 and reused at BSidesLV 2021 and RSAC 2022 (https://supplychainsandbox.org/quadblocks). It is being modified for this talk and a contest will be run during the talk, with 3 prizes (2 raspberry pi’s with LED matrix, programmed with some of the automation features discussed in the talk, 1 book). The talk and contest will be preannounced on social media.
 a.	QBQ falling blocks Gif
 i.	in the spirit of our newfound role in the space program of the future, I'd like to introduce a game I built.
@@ -66,7 +71,7 @@ iv.	Space is cold - computer got very cold
 v.	did the simulations on the tradeoff between turning computer on too early (and would run out of power/oxygen and crew would die) and waiting too late (computer would take too long to warm up and not be available for reentry and capsule would burn up on and crew would die)
 vi.	play short clip from movie where my uncle Jim is briefly mentioned
 vii.	loss of that computer imperiled lives. thousand time more true today
-III.	Automation
+- Automation
 a.	Houston, We Have A Solution (Houston, We Have A Solution = automation slide)
 i.	Fine-tuning standards-based interoperable cybersecurity for the inhospitably of space
 ii.	Where human-produced technology goes, so go human problems
@@ -145,9 +150,9 @@ i.	To get the Webb Telescope to space required a rocket, with fuel, and a gazill
 ii.	The fuel for the rocket in cybersecurity is automation,
 iii.	the gazillion piece parts are the alphabet soup I just went thru,
 iv.	and the rocket holding it all together is sharing among defenders
-IV.	Blinky Demo (pi slide)
+- Blinky Demo (pi slide)
 i.	Live demo of raspberry pi doing small subset of previous automation stuff
-V.	Conclusion
+- Conclusion
 a.	Takeaway slide
 i.	Cybersecurity == Cybersafety == important in cyber-physical systems
 ii.	Cybersecurity Automation is cheaper/better/faster than manual
@@ -158,5 +163,5 @@ c.	Conclusion (another space pic from webb – never seen before)
 i.	It's a luxury to think that the work we contribute to cybersecurity in space will have a long lead time or the deliberate tempo of Devops. More likely than not, cybersecurity professionals will find themselves drawn into extraterrestrial operations in the same way my Uncle Jim found himself involved with Apollo--via a random call on an otherwise ordinary afternoon. We need to prepare for how sudden and seemingly mundane our role in the space program will be and adjust our dreams and nightmares accordingly.
 d.	Clock Slide
 i.	never enough time, thank you for yours
-VI.	Q&A (Q&A/patch logo slide)
-VII.	Announce Prize Winners (prizes slide)
+- Q&A (Q&A/patch logo slide)
+- Announce Prize Winners (prizes slide)
