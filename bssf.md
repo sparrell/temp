@@ -1,10 +1,10 @@
-Key Takeaways
+**Key Takeaways**
 -	Cybersecurity == Cybersafety == important in cyber-physical systems
 -	Cybersecurity Automation is cheaper/better/faster than manual
 -	Cybersecurity Vendor-agnostic standards enable automation
 -	Where to go for more info
 
-Why people will want to attend?
+**Why people will want to attend?**
 
 Terrestrial cybersecurity automation protocol will determine whether the new space race is the stuff of dreams or nightmares. This talk knits together abstract theories with concrete consequences in a cosmic call to action.
 -	To takeaway the key takeaways
@@ -12,7 +12,7 @@ Terrestrial cybersecurity automation protocol will determine whether the new spa
 -	Amusement
 -	To win prizes
 
-Structure of Talk (25 min)
+**Structure of Talk (25 min)**
 1 Background (4 min)
 1 Uncle Jim’s Cosmic Quadblox Quiz (4 min)
 1 Automation (8 min)
@@ -21,7 +21,7 @@ Structure of Talk (25 min)
 1 Q&A (3 min)
 1 Announce Prize Winners (2 min)
 
-Detailed Outline
+**Detailed Outline**
 
 1 Background
    *	Title Slide
