@@ -18,9 +18,11 @@ Terrestrial cybersecurity automation protocol will determine whether the new spa
 1. Uncle Jim’s Cosmic Quadblox Quiz (4 min)
    - 3 slides
 1. Automation (8 min)
-   -
+   - 19 slides
 1. Blinky Demo (2 min)
+   - demo
 1. Conclusion (2 min)
+   - 4 slides
 1. Q&A (3 min)
 1. Announce Prize Winners (2 min)
 
