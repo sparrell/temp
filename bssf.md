@@ -14,8 +14,11 @@ Terrestrial cybersecurity automation protocol will determine whether the new spa
 
 **Structure of Talk (25 min)**
 1. Background (4 min)
+   - 8 slides
 1. Uncle Jim’s Cosmic Quadblox Quiz (4 min)
+   - 3 slides
 1. Automation (8 min)
+   -
 1. Blinky Demo (2 min)
 1. Conclusion (2 min)
 1. Q&A (3 min)
@@ -45,7 +48,7 @@ Terrestrial cybersecurity automation protocol will determine whether the new spa
       - This pic, taken by the Webb telescope, was used by hackers to distribute malware. Which means that decades of work executed by teams built from some of the most qualified engineers on the planet was co-opted in a matter of days by nefarious actors who saw the majesty of the galaxy as nothing more than a clever exploit
 1. Uncle Jim’s Cosmic Quadblock Quiz
 
-   * Aside to reviewers. QuadBlockQuiz is a game on the web developed for Supply Chain Sandbox at RSAC 2021 and reused at BSidesLV 2021 and RSAC 2022 (https://supplychainsandbox.org/quadblocks). It is being modified for this talk and a contest will be run during the talk, with 3 prizes (2 raspberry pi’s with LED matrix, programmed with some of the automation features discussed in the talk, 1 book). The talk and contest will be preannounced on social media.
+   * Aside to reviewers. QuadBlockQuiz is a game on the web developed for Supply Chain Sandbox at RSAC 2021 and reused at BSidesLV 2021 and RSAC 2022 (https://supplychainsandbox.org/quadblocks). But for 2023 it's just for BSidesSF. It is being modified for this talk and a contest will be run during the talk, with 3 prizes (2 raspberry pi’s with LED matrix, programmed with some of the automation features discussed in the talk, 1 book). The talk and contest will be preannounced on social media.
    * QBQ falling blocks Gif
       - in the spirit of our newfound role in the space program of the future, I'd like to introduce a game I built.
       - It's called Uncle Jim's Cosmic Quadblox Quiz.
@@ -55,31 +58,21 @@ Terrestrial cybersecurity automation protocol will determine whether the new spa
       - Otherwise, the consequences could be devastating (timed so attack on gif shows up as I say that)
       - Why Uncle Jim? (run into next section introducing Uncle Jim's contribution to Apollo)
    * Houston, We have a problem (apollo 13 slide)
-      - Recap my Uncle Jim’s role in bringing Apollo 13 home safe. Need to tighten up and get graphics right
-      - Jim Sparrell (my uncle) role in bringing the astronauts home safe –
-      - one small computer, necessary for real-time reentry calculations, used power they didn't have enough of, so they shut it off
-      - Space is cold - computer got very cold
-      - did the simulations on the tradeoff between turning computer on too early (and would run out of power/oxygen and crew would die) and waiting too late (computer would take too long to warm up and not be available for reentry and capsule would burn up on and crew would die)
-v      - play short clip from movie where my uncle Jim is briefly mentioned
-v      - loss of that computer imperiled lives. thousand time more true today
+      - Recap my Uncle Jim’s role in bringing Apollo 13 home safe.
+         - Jim Sparrell (my uncle) role in bringing the astronauts home safe. One small computer, necessary for real-time reentry calculations, used power they didn't have enough of, so they shut it off. Space is cold - computer got very cold. He did the simulations on the tradeoff between turning computer on too early (and would run out of power/oxygen and crew would die) and waiting too late (computer would take too long to warm up and not be available for reentry and capsule would burn up on and crew would die). The loss of that computer imperiled lives. Thousand time more true today
 1. Automation
    * Houston, We Have A Solution (Houston, We Have A Solution = automation slide)
-      - Fine-tuning standards-based interoperable cybersecurity for the inhospitably of space
-      - Where human-produced technology goes, so go human problems
+      - Fine-tuning standards-based interoperable cybersecurity for the inhospitably of space. Where human-produced technology goes, so go human problems
    * Risk (Jerry Maguire “Show me the money” slide)
-      - This is from the movie Jerry Maguire – show me the money.
-      - It turns out or most business decisions, including on security – money is a good metric but only if you do the math correctly.
-      - These ‘correct’ math tools actually came out of the safety industry and work equally well for money, or casualties/deaths which unfortunately is more appropriate for space travel.
+      - This is from the movie Jerry Maguire – show me the money. It turns out or most business decisions, including on security – money is a good metric but only if you do the math correctly. These ‘correct’ math tools actually came out of the safety industry and work equally well for money, or casualties/deaths which unfortunately is more appropriate for space travel.
    * Risk (“How to” Sieresen book slide)
-      - This book has been out a while but I still recommend it. It’s a textbook, and like most textbooks, it’s not necessarily an easy read.
-      - But the concepts in it are really important. I’ll give out one of these at the end of my talk as a prize.
+      - This book has been out a while but I still recommend it. It’s a textbook, and like most textbooks, it’s not necessarily an easy read. But the concepts in it are really important. I’ll give out one of these at the end of my talk as a prize.
    * Savings (JHU 3-order slide)
       - Here is some data from the Johns Hopkins University Applied Physics Lab. They automated their defenses using some standards I’ll  cover next.
       - Being a university and a national lab – they studied the impact of automation. They saw:
-1.	3-order of magnitude increase in how well they handled events and incidents
-2.	2-order of magnitude increase in how much was mitigated
-3.	Most important – 2-order of magnitude decrease in how long the hacker was in.
-      - That is what you plug into your risk quantification in the Green book I just mentioned – 2-order of magnitude decrease in time for hacker to do damage which results in an even greater reduction in damage.
+         + three-order of magnitude increase in how well they handled events and incidents
+         + 2-order of magnitude increase in how much was mitigated
+         + Most important – 2-order of magnitude decrease in how long the hacker was in. That is what you plug into your risk quantification in the Green book I just mentioned – 2-order of magnitude decrease in time for hacker to do damage which results in an even greater reduction in damage.
    * Acronyms (alphabet soup slide)
       - Cybersecurity automation has as many acronyms as the space shuttle – well maybe not the thousands NASA uses. I’ll try to not only define the acronym but explain the value.
    * PACE in Space (Pace logo slide)
