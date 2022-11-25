@@ -13,13 +13,13 @@ Terrestrial cybersecurity automation protocol will determine whether the new spa
 -	To win prizes
 
 **Structure of Talk (25 min)**
-1 Background (4 min)
-1 Uncle Jim’s Cosmic Quadblox Quiz (4 min)
-1 Automation (8 min)
-1 Blinky Demo (2 min)
-1 Conclusion (2 min)
-1 Q&A (3 min)
-1 Announce Prize Winners (2 min)
+1. Background (4 min)
+1. Uncle Jim’s Cosmic Quadblox Quiz (4 min)
+1. Automation (8 min)
+1. Blinky Demo (2 min)
+1. Conclusion (2 min)
+1. Q&A (3 min)
+1. Announce Prize Winners (2 min)
 
 **Detailed Outline**
 
