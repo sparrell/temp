@@ -154,13 +154,13 @@ s.	Automation summary (rocket build slide)
       -   Live demo of raspberry pi doing small subset of previous automation stuff
 1. Conclusion
    *	Takeaway slide
-      -   Cybersecurity == Cybersafety == important in cyber-physical systems
+      - Cybersecurity == Cybersafety == important in cyber-physical systems
       - Cybersecurity Automation is cheaper/better/faster than manual
       - Cybersecurity Vendor-agnostic standards enable automation
    * For more information (“links to resources” slide)
-      -   For more information, see the links on this slide or feel free to contact me via the various methods on this slide
+      - For more information, see the links on this slide or feel free to contact me via the various methods on this slide
    * Conclusion (another space pic from webb – never seen before)
-      -   It's a luxury to think that the work we contribute to cybersecurity in space will have a long lead time or the deliberate tempo of Devops. More likely than not, cybersecurity professionals will find themselves drawn into extraterrestrial operations in the same way my Uncle Jim found himself involved with Apollo--via a random call on an otherwise ordinary afternoon. We need to prepare for how sudden and seemingly mundane our role in the space program will be and adjust our dreams and nightmares accordingly.
+      - It's a luxury to think that the work we contribute to cybersecurity in space will have a long lead time or the deliberate tempo of Devops. More likely than not, cybersecurity professionals will find themselves drawn into extraterrestrial operations in the same way my Uncle Jim found himself involved with Apollo--via a random call on an otherwise ordinary afternoon. We need to prepare for how sudden and seemingly mundane our role in the space program will be and adjust our dreams and nightmares accordingly.
    * Clock Slide
       - never enough time, thank you for yours
 1. Q&A (Q&A/patch logo slide)
