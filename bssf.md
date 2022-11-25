@@ -36,16 +36,16 @@ Terrestrial cybersecurity automation protocol will determine whether the new spa
       - On September 12, 1962 in a speech delivered at Rice University, JFK offered that we choose to go to the moon “not because it’s easy, but because it’s hard.” Historically, the devil has been in the details. Dropped oxygen tanks, ruptured o-rings, cracked tiles, and rounding errors have meant the difference between life and death, mission success and failure. RAZOR THIN MARGINS OF ERROR and they’re only getting thinner
    * We are the Space Program I (webb telescope pic)
       - I mention all of this because everyone in this room is a part of the space program. Gone are the days when people with crew cuts and pocket protectors in Huntsville, Houston, and Cape Canaveral were the sole administrators of space travel. In an age when common smart phones are many tens of thousands of times more powerful than the guidance computer on a Saturn V rocket, the boundaries between the work we do in terrestrial cyber security and the software that finds its way beyond earth’s atmosphere are few.
-      - BTW, this is a pic of the James Webb Telescope. A friend of mine, Dr. Ori Fox, runs the part of the telescope that sees in the mid-infrared.
+      - BTW, this is a pic of the James Webb Telescope from a friend of mine, Dr. Ori Fox, who runs the part of the telescope that sees in the mid-infrared.
    * Space Pic from telescope
-      - For decades, teams built from some of the most qualified engineers on the planet worked to deliver a platform so technically excellent that it could broadcast stunning images like this from the depths of space through a complex communication network back to its handlers on earth. This is the public unveiling of this picture and you are the first people outside the telescope.
+      - For decades, teams built from some of the most qualified engineers on the planet, worked to deliver a platform so technically excellent that it could broadcast stunning images like this from the depths of space through a complex communication network back to its handlers on earth. This is the public unveiling of this picture and you are the first people outside the telescope.
       - Ori info summary here on how many computers, much software, how much open source … in telescope
       - More on the telescope in a minute, but did you know
    * We are the Space Program II (hacked webb pic)
       - This pic, taken by the Webb telescope, was used by hackers to distribute malware. Which means that decades of work executed by teams built from some of the most qualified engineers on the planet was co-opted in a matter of days by nefarious actors who saw the majesty of the galaxy as nothing more than a clever exploit
 1. Uncle Jim’s Cosmic Quadblock Quiz
 
-Aside to reviewers. QuadBlockQuiz is a game on the web developed for Supply Chain Sandbox at RSAC 2021 and reused at BSidesLV 2021 and RSAC 2022 (https://supplychainsandbox.org/quadblocks). It is being modified for this talk and a contest will be run during the talk, with 3 prizes (2 raspberry pi’s with LED matrix, programmed with some of the automation features discussed in the talk, 1 book). The talk and contest will be preannounced on social media.
+   * Aside to reviewers. QuadBlockQuiz is a game on the web developed for Supply Chain Sandbox at RSAC 2021 and reused at BSidesLV 2021 and RSAC 2022 (https://supplychainsandbox.org/quadblocks). It is being modified for this talk and a contest will be run during the talk, with 3 prizes (2 raspberry pi’s with LED matrix, programmed with some of the automation features discussed in the talk, 1 book). The talk and contest will be preannounced on social media.
    * QBQ falling blocks Gif
       - in the spirit of our newfound role in the space program of the future, I'd like to introduce a game I built.
       - It's called Uncle Jim's Cosmic Quadblox Quiz.
