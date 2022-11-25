@@ -153,10 +153,10 @@ s.	Automation summary (rocket build slide)
 1. Blinky Demo (pi slide)
       -   Live demo of raspberry pi doing small subset of previous automation stuff
 1. Conclusion
-   *	Takeaway slide
-      o Cybersecurity == Cybersafety == important in cyber-physical systems
+   * Takeaway slide
+      - Cybersecurity == Cybersafety == important in cyber-physical systems
       - Cybersecurity Automation is cheaper/better/faster than manual
-      * Cybersecurity Vendor-agnostic standards enable automation
+      - Cybersecurity Vendor-agnostic standards enable automation
    * For more information (“links to resources” slide)
       - For more information, see the links on this slide or feel free to contact me via the various methods on this slide
    * Conclusion (another space pic from webb – never seen before)
