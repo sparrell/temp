@@ -23,34 +23,34 @@ Terrestrial cybersecurity automation protocol will determine whether the new spa
 
 **Detailed Outline**
 
-1 Background
+1. Background
    *	Title Slide
 i.	My Mastodon handle is @sfractal@infosec.exchange. Please toot/post about this talk
-b.	Tagline (Think Evilly, Act Ethically slide)
+   * Tagline (Think Evilly, Act Ethically slide)
 i.	My tagline is think evilly, act ethically and this talk will be about applying that tagline to space – ie
 ii.	#Security101
-c.	Dreams and Nightmares  I (Moon Landing Pic)
+   * Dreams and Nightmares  I (Moon Landing Pic)
 i.	What’s more aspirational than a kid saying they want to be an astronaut?
 ii.	No greater stage of human endeavor than space flight and no more aspirational dream than taking part in it.
-d.	Dreams and Nightmares  II (Challenger explosion Pic)
+   * Dreams and Nightmares  II (Challenger explosion Pic)
 i.	FLIPSIDE: No tragedy more visible or visceral than a space tragedy
 ii.	Challenger, Columbia, uncontrollable descents, launch pad explosions. Low orbit collisions & routine loss of signal are just a few of the many ghosts that haunt human exploration of space
-e.	Only Getting Harder (jfk pic)
+   * Only Getting Harder (jfk pic)
 i.	On September 12, 1962 in a speech delivered at Rice University, JFK offered that we choose to go to the moon “not because it’s easy, but because it’s hard.”
 ii.	Historically, the devil has been in the details
 iii.	Dropped oxygen tanks, ruptured o-rings, cracked tiles, and rounding errors have meant the difference between life and death, mission success and failure
 iv.	RAZOR THIN MARGINS OF ERROR and they’re only getting thinner
-f.	We are the Space Program I (webb telescope pic)
+   * We are the Space Program I (webb telescope pic)
 i.	I mention all of this because everyone in this room is a part of the space program
 ii.	Gone are the days when people with crew cuts and pocket protectors in Huntsville, Houston, and Cape Canaveral were the sole administrators of space travel
 iii.	In an age when common smart phones are many tens of thousands of times more powerful than the guidance computer on a Saturn V rocket, the boundaries between the work we do in terrestrial cyber security and the software that finds its way beyond earth’s atmosphere are few
 iv.	BTW, this is a pic of the James Webb Telescope. A friend of mine, Dr. Ori Fox, runs the part of the telescope that sees in the mid-infrared.
-g.	Space Pic from telescope
+   * Space Pic from telescope
 i.	For decades, teams built from some of the most qualified engineers on the planet worked to deliver a platform so technically excellent that it could broadcast stunning images like this from the depths of space through a complex communication network back to its handlers on earth.
 ii.	This is the public unveiling of this picture and you are the first people outside the telescope
 iii.	Ori info summary here on how many computers, much software, how much open source … in telescope
 iv.	More on the telescope in a minute, but did you know
-h.	We are the Space Program II (hacked webb pic)
+   * We are the Space Program II (hacked webb pic)
 i.	This pic, taken by the Webb telescope, was used by hackers to distribute malware.
 ii.	Which means that decades of work executed by teams built from some of the most qualified engineers on the planet was co-opted in a matter of days by nefarious actors who saw the majesty of the galaxy as nothing more than a clever exploit
 1 Uncle Jim’s Cosmic Quadblock Quiz
@@ -59,11 +59,11 @@ Aside to reviewers. QuadBlockQuiz is a game on the web developed for Supply Chai
 i.	in the spirit of our newfound role in the space program of the future, I'd like to introduce a game I built.
 ii.	It's called Uncle Jim's Cosmic Quadblox Quiz.
 iii.	You'll be stacking space junk amid a storm of trojans, rootkits and errant cosmic ray bit flips that threaten to end your mission.
-b.	QBQ QnA gif
+   * QBQ QnA gif
 i.	Answer questions correctly and you have a better chance of success.
 ii.	Otherwise, the consequences could be devastating (timed so attack on gif shows up as I say that)
 iii.	Why Uncle Jim? (run into next section introducing Uncle Jim's contribution to Apollo)
-c.	Houston, We have a problem (apollo 13 slide)
+   * Houston, We have a problem (apollo 13 slide)
 i.	Recap my Uncle Jim’s role in bringing Apollo 13 home safe. Need to tighten up and get graphics right
 ii.	Jim Sparrell (my uncle) role in bringing the astronauts home safe –
 iii.	one small computer, necessary for real-time reentry calculations, used power they didn't have enough of, so they shut it off
@@ -75,30 +75,30 @@ vii.	loss of that computer imperiled lives. thousand time more true today
    *	Houston, We Have A Solution (Houston, We Have A Solution = automation slide)
 i.	Fine-tuning standards-based interoperable cybersecurity for the inhospitably of space
 ii.	Where human-produced technology goes, so go human problems
-b.	Risk (Jerry Maguire “Show me the money” slide)
+   * Risk (Jerry Maguire “Show me the money” slide)
 i.	This is from the movie Jerry Maguire – show me the money.
 ii.	It turns out or most business decisions, including on security – money is a good metric but only if you do the math correctly.
 iii.	These ‘correct’ math tools actually came out of the safety industry and work equally well for money, or casualties/deaths which unfortunately is more appropriate for space travel.
-c.	Risk (“How to” Sieresen book slide)
+   * Risk (“How to” Sieresen book slide)
 i.	This book has been out a while but I still recommend it. It’s a textbook, and like most textbooks, it’s not necessarily an easy read.
 ii.	But the concepts in it are really important. I’ll give out one of these at the end of my talk as a prize.
-d.	Savings (JHU 3-order slide)
+   * Savings (JHU 3-order slide)
 i.	Here is some data from the Johns Hopkins University Applied Physics Lab. They automated their defenses using some standards I’ll  cover next.
 ii.	Being a university and a national lab – they studied the impact of automation. They saw:
 1.	3-order of magnitude increase in how well they handled events and incidents
 2.	2-order of magnitude increase in how much was mitigated
 3.	Most important – 2-order of magnitude decrease in how long the hacker was in.
 iii.	That is what you plug into your risk quantification in the Green book I just mentioned – 2-order of magnitude decrease in time for hacker to do damage which results in an even greater reduction in damage.
-e.	Acronyms (alphabet soup slide)
+   * Acronyms (alphabet soup slide)
 i.	Cybersecurity automation has as many acronyms as the space shuttle – well maybe not the thousands NASA uses. I’ll try to not only define the acronym but explain the value.
-f.	PACE in Space (Pace logo slide)
+   * PACE in Space (Pace logo slide)
 i.	Security Posture - you want to know the state of your enterprise
 ii.	More words here – analogous to telemetry in spacecraft
-g.	OCA (OCA/NASA Slide)
+   * OCA (OCA/NASA Slide)
 i.	PACE is part of the Open Cybersecurity Alliance or OCA.
 ii.	OCA is a nonprofit, global collaboration of software providers, end users, government agencies, research institutes, and individuals committed to enabling the free exchange of information, insights, analytics, and response across cybersecurity tools.
 iii.	OCA is to cybersecurity what NASA is to rockets.
-h.	Kestrel hunting (Hawk hunting slide)
+   * Kestrel hunting (Hawk hunting slide)
 i.	One critical security attribute (ie input to PACE) is
 1.	‘are there hackers in my system? If so, where? What are they doing’
 ii.	Kestrel is an OCA project for threat hunting ie finding the hackers.
@@ -157,11 +157,11 @@ i.	Live demo of raspberry pi doing small subset of previous automation stuff
 i.	Cybersecurity == Cybersafety == important in cyber-physical systems
 ii.	Cybersecurity Automation is cheaper/better/faster than manual
 iii.	Cybersecurity Vendor-agnostic standards enable automation
-b.	For more information (“links to resources” slide)
+   * For more information (“links to resources” slide)
 i.	For more information, see the links on this slide or feel free to contact me via the various methods on this slide
-c.	Conclusion (another space pic from webb – never seen before)
+   * Conclusion (another space pic from webb – never seen before)
 i.	It's a luxury to think that the work we contribute to cybersecurity in space will have a long lead time or the deliberate tempo of Devops. More likely than not, cybersecurity professionals will find themselves drawn into extraterrestrial operations in the same way my Uncle Jim found himself involved with Apollo--via a random call on an otherwise ordinary afternoon. We need to prepare for how sudden and seemingly mundane our role in the space program will be and adjust our dreams and nightmares accordingly.
-d.	Clock Slide
+   * Clock Slide
 i.	never enough time, thank you for yours
 1 Q&A (Q&A/patch logo slide)
 1 Announce Prize Winners (prizes slide)
